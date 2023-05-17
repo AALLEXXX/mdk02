@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\lab1\bin\Debug\lab1.exe.config
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\lab1\bin\Debug\lab1.exe
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\lab1\bin\Debug\lab1.pdb
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\lab1\obj\Debug\lab1.exe
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\lab1\obj\Debug\lab1.pdb
