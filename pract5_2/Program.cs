@@ -1,4 +1,5 @@
-﻿using System;
+/* Дано предложение. Напечатать все слова, отличные от слова «Привет».*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
