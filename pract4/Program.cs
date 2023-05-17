@@ -21,7 +21,6 @@ namespace pract4
             Console.ReadLine();
         }
 
-        // Генерация трехмерного массива в виде спирали
         static int[,] GenerateSpiralArray(int rows, int columns, int minValue, int maxValue)
         {
             int[,] array = new int[rows, columns];
