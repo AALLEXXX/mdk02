@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pract5\bin\Debug\pract5.exe.config
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pract5\bin\Debug\pract5.exe
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pract5\bin\Debug\pract5.pdb
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pract5\obj\Debug\pract5.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pract5\obj\Debug\pract5.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pract5\obj\Debug\pract5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pract5\obj\Debug\pract5.exe
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pract5\obj\Debug\pract5.pdb
