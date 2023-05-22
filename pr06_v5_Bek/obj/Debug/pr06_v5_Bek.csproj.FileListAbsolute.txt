@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pr06_v5_Bek\bin\Debug\pr06_v5_Bek.exe.config
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pr06_v5_Bek\bin\Debug\pr06_v5_Bek.exe
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pr06_v5_Bek\bin\Debug\pr06_v5_Bek.pdb
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pr06_v5_Bek\obj\Debug\pr06_v5_Bek.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pr06_v5_Bek\obj\Debug\pr06_v5_Bek.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pr06_v5_Bek\obj\Debug\pr06_v5_Bek.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pr06_v5_Bek\obj\Debug\pr06_v5_Bek.exe
+\\Mac\Home\Desktop\aleXmac\РАНХ\ранх 2ой курс\mdk0102\pr06_v5_Bek\obj\Debug\pr06_v5_Bek.pdb
